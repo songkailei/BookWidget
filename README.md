@@ -7,5 +7,5 @@ compile 'net.jreader.bookwidget.library:bookwidget:0.1'
 ### 2. demo
 参见 BookWidget/app/src/main/java/net/jreader/bookwidget/MainActivity.java 其layout不能改动
 ### 3. 效果
-
+![image](https://raw.githubusercontent.com/songkailei/BookWidget/master/demo.gif)
 ### 4. 优化
