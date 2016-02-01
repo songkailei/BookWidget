@@ -13,7 +13,7 @@ import android.view.View;
  */
 public class PageView extends View {
 
-    Bitmap pageBitmap = null; // 当前页
+    Bitmap pageBitmap = null; //
     Drawable shadow = null;
     private Rect mTmpRect = new Rect();
 

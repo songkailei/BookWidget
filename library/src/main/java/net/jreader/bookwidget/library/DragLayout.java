@@ -136,6 +136,11 @@ public class DragLayout extends FrameLayout {
         return dragHelper.shouldInterceptTouchEvent(ev);
     }
 
+    /**
+     *
+     * @param event
+     * @return
+     */
     public boolean doTouchEvent(MotionEvent event) {
         try {
             dragHelper.processTouchEvent(event);
